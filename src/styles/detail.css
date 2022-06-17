@@ -1,0 +1,69 @@
+/* Defaults ------------------------------ */
+.gap-detail {
+    height: 4px;}
+
+.wrapper.wrapper-detail {
+    margin-top: -100px;}
+
+.home.home-detail {
+    height: 60vh;}
+
+.heading-deatail {
+    margin: 0; 
+    color: var(--brown);}
+
+/* Home Details ------------------------------ */
+.home.home-detail {
+    height: 60vh;
+}
+
+.home.home-exp {
+    background: url(../../public/images/home-exp.jpg) center/ cover
+}
+.home.home-char {
+    background: url(../../public/images/home-char.jpg) center/ cover
+}
+.home.home-din {
+    background: url(../../public/images/home-din.jpg) center/ cover
+}
+.home.home-whatsup {
+    background: url(../../public/images/home-whatsup.webp) center/ cover
+}
+.home.home-info {
+    background: url(../../public/images/home-info.jpg) center/ cover
+}
+/* Details ------------------------------ */
+.details-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2%;}
+
+.icon.fa-map-location-dot{
+    position: static;}
+
+/* Carousel */
+.carousel-item{
+    width: 100%;
+    height: 100%;
+    object-fit: cover}
+
+/* Others */
+.details-char{
+    position: relative;
+    padding-bottom: 0} /* for char-img */
+
+.details-char h3{
+    margin-bottom: 2%;}
+
+.char-img{
+    position: absolute;
+    top: 0; right: 0;
+    width: 50%;}
+
+.map-char {
+    padding: 0;}
+
+.map-char img{
+    width: 100%;
+    height: auto;}
