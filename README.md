@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Homepage: https://localhost:3000//ChauAnh2702.github.io/fun-zone/
 
 ## Available Scripts
 
