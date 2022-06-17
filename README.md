@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Homepage: https://localhost:3000//ChauAnh2702.github.io/fun-zone/
+Homepage: https://localhost:3000/ChauAnh2702.github.io/fun-zone/
 
 ## Available Scripts
 
